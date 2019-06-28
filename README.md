@@ -1,24 +1,10 @@
-# README
+# MicroPosts
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+簡易SNSです。
 
-Things you may want to cover:
+## デモ
+### Top
+<img src="https://github.com/riku3/kadai-microposts/blob/master/demo/MicroPosts_top_demo.jpg" width="800" height="400">
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Detail
+<img src="https://github.com/riku3/kadai-microposts/blob/master/demo/MicroPosts_detail_demo.jpg" width="800" height="400">
